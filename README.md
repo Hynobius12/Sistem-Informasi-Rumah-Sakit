@@ -74,11 +74,11 @@ Database `rumahsakit` terdiri dari 7 tabel:
 Project kelompok (5 anggota) — Mata Kuliah Basis Data, Program Studi Teknik Informatika.
 
 **Kontributor:** 
-Maulana Auliya Firdaus
-IKHSANURIL AL FAYADH
-INDAH DWI NOVITRI
-M. JAFAR SODIK
-M. YAMAN DARMAWAN
+- Maulana Auliya Firdaus
+- IKHSANURIL AL FAYADH
+- INDAH DWI NOVITRI
+- M. JAFAR SODIK
+- M. YAMAN DARMAWAN
 
 ## 📄 Lisensi
 
